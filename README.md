@@ -1,3 +1,3 @@
 ## Landing Daru Link
 
-[Landing Daru Link](https://maximzozulya.github.io/Landing_Daru_Link/)
+[Посмотреть здесь...](https://maximzozulya.github.io/Landing_Daru_Link/)
